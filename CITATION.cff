@@ -1,0 +1,43 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "proyecto" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'proyecto: The Title of the Project'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Riquelme Contreras
+  given-names: Patricio
+  email: pfriquelme@uchile.cl
+  orcid: https://orcid.org/0000-0003-3367-4311
+repository-code: https://github.com/priquelmec/proyecto
+url: https://github.com/priquelmec/proyecto
+contact:
+- family-names: Riquelme Contreras
+  given-names: Patricio
+  email: pfriquelme@uchile.cl
+  orcid: https://orcid.org/0000-0003-3367-4311
+references:
+- type: software
+  title: renv
+  abstract: 'renv: Project Environments'
+  notes: Imports
+  url: https://rstudio.github.io/renv/
+  repository: https://CRAN.R-project.org/package=renv
+  authors:
+  - family-names: Ushey
+    given-names: Kevin
+    email: kevin@rstudio.com
+    orcid: https://orcid.org/0000-0003-2880-7407
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+    orcid: https://orcid.org/0000-0003-4757-117X
+  year: '2025'
+  doi: 10.32614/CRAN.package.renv
+
