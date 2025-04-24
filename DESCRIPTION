@@ -1,0 +1,18 @@
+Package: proyecto
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Patricio",
+           family  = "Riquelme Contreras",
+           role    = c("aut", "cre", "cph"),
+           email   = "pfriquelme@uchile.cl",
+           comment = c(ORCID = "0000-0003-3367-4311")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/priquelmec/proyecto
+BugReports: https://github.com/priquelmec/proyecto/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
